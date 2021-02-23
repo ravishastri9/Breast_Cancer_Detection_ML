@@ -136,13 +136,13 @@ memory usage: 54.7+ KB
 df.hist(figsize = (10, 9))
 plt.show()
 
-Output: Added in a different file
+Output: Added in result file
 
 # Create scatter plot matrix
 scatter_matrix(df, figsize = (18,18))
 plt.show()
 
-Output: Added in a different file
+Output: Added in result file
        
 sns.countplot(df['class'])
 
